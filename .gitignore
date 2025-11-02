@@ -1,0 +1,13 @@
+# Unreal Engine
+Saved/
+Intermediate/
+DerivedDataCache/
+*.pdb
+
+# Binaries
+Binaries/
+Build/
+
+# Plugins
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
